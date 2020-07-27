@@ -30,4 +30,4 @@ python proj6.py
   - MiniBatchSize
   - LoadCheckPoint
   - LogsPath
-- The output frames will be generated in the `output` folder. The output demo video is [here]()
+- The output frames will be generated in the `output` folder. The output demo video is [here](https://drive.google.com/drive/folders/1gLbaGfuccrfjSRn0rZDSlAYLIkKmQrNr?usp=sharing)
